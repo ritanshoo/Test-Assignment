@@ -171,9 +171,6 @@ const App = () => {
             wallet={wallet}
           />
         </div>
-        <div id="footer">
-          <img src="built-with-taquito.png" alt="Built with Taquito" />
-        </div>
       </div>
     );
   } else {
